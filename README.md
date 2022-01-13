@@ -3,5 +3,5 @@
 
 запуск скрипта:
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`  
 `python3 main.py`
